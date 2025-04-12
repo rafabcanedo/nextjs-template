@@ -3,7 +3,7 @@ import { VariantProps, tv } from 'tailwind-variants';
 import { CheckCircle } from 'lucide-react';
 
 const button = tv({
-  base: 'flex items-center justify-center text-sm rounded bg-primary-main font-poppins text-white hover:bg-hover cursor-pointer',
+  base: 'flex items-center justify-center text-sm rounded bg-emerald-400 font-poppins text-white hover:bg-emerald-800 cursor-pointer',
   variants: {
     size: {
       default: 'h-10 px-8',
