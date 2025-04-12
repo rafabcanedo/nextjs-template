@@ -1,5 +1,7 @@
 ## Template for Nextjs Projects
 
+I developed this template with components, configs, layout, tailwindcss
+
 ## About Setup-Eslint.sh
 
 - Copy the file in new project
